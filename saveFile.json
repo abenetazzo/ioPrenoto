@@ -1,0 +1,69 @@
+{
+    "reservationCounter": 7,
+    "reservations": [
+        {
+            "arrivalDate": {
+                "day": 12,
+                "month": 2,
+                "year": 2023
+            },
+            "basis": 2,
+            "departureDate": {
+                "day": 13,
+                "month": 2,
+                "year": 2023
+            },
+            "email": "rossi.a@mail.me",
+            "guests": 2,
+            "id": 1,
+            "name": "Andrea",
+            "notes": "cliente abituale",
+            "phone": "123456",
+            "reservable": "suite",
+            "reservationType": "Hotel",
+            "surname": "Rossi"
+        },
+        {
+            "allergies": "allergico ai crostacei",
+            "date": {
+                "day": 12,
+                "month": 2,
+                "year": 2023
+            },
+            "email": "rossi.a@mail.me",
+            "guests": 2,
+            "id": 2,
+            "name": "Andrea",
+            "notes": "soggiorna in albergo",
+            "phone": "123456",
+            "reservable": "chef table",
+            "reservationType": "Restaurant",
+            "surname": "Rossi",
+            "time": {
+                "hour": 20,
+                "minute": 45
+            }
+        },
+        {
+            "arrivalDate": {
+                "day": 13,
+                "month": 2,
+                "year": 2023
+            },
+            "departureDate": {
+                "day": 13,
+                "month": 2,
+                "year": 2023
+            },
+            "email": "rossi.a@mail.me",
+            "id": 3,
+            "name": "Andrea",
+            "notes": "soggiorna in albergo",
+            "phone": "123456",
+            "reservable": "prima fila",
+            "reservationType": "Beach",
+            "sunbeds": 2,
+            "surname": "Rossi"
+        }
+    ]
+}
